@@ -7,6 +7,7 @@ Objectives
 - Analyze gender equity metrics across different African countries and identify key disparities.
 - Perform data cleaning, visualization, and statistical analysis using R.
 - Statistical Methods: Employed hypothesis testing, regression analysis, and clustering techniques to derive insights.
+
 Tools & Technologies
 - Jupiter Notebooks: Primary tool for data manipulation, statistical analysis, and visualization.
 - R Packages: dplyr, ggplot2, and tidyr for data importation.
